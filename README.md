@@ -56,6 +56,6 @@ la VM
 
 <img src="/Capture1.PNG" alt="ma vm version">
 
-
+.
 
 
